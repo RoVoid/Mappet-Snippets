@@ -17,7 +17,8 @@
 	},
 	{
 		"title": {
-			"": "Play sound upon looking at the entity"
+			"": "Play sound upon looking at the entity",
+			"ru_ru": "Воспроизвести звук при взгляде на сущность"
 		},
 		"tags": [
 			"world",
@@ -32,3 +33,4 @@
 		"author": "mchorse"
 	}
 ]
+
