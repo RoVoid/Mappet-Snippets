@@ -14,5 +14,21 @@
 			"0.9"
 		],
 		"author": "blz"
+	},
+	{
+		"title": {
+			"": "Play sound upon looking at the entity"
+		},
+		"tags": [
+			"world",
+			"player",
+			"sound",
+			"npc",
+			"ray"
+		],
+		"versions": [
+			"0.9"
+		],
+		"author": "mchorse"
 	}
 ]
